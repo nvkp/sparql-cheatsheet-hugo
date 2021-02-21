@@ -1,7 +1,9 @@
 ---
 layout: post
-title: SPARQL Cheat Sheet
+title: SPARQL 1.1 Cheat Sheet
 ---
+
+# SPARQL 1.1 Cheat Sheet
 
 [**Learning SPARQL**](http://learningsparql.com)
 

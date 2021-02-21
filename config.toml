@@ -4,6 +4,7 @@ title = "SPARQL 1.1 Cheat Sheet"
 enableGitInfo = true
 
 [params]
+    BookLogo = 'logo.png'
     BookTheme = 'auto'
     BookSearch = true
     BookRepo = 'https://github.com/nvkp/sparql-cheatsheet'
